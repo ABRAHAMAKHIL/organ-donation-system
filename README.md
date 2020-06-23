@@ -6,3 +6,8 @@
 •	When Doctor log’s in , he can add patient report , view patient’s history , check list of available donors for emergency receiver , can remove patient after performing operation and can view waiting list of receivers.
 •	When Admin log’s in , he can check list of all registered users and feedback of visitors.
 •	Also, it includes news and inspirational stories related to organ donation, which helps both donor and receiver to have awareness of the process .
+
+
+Language Used:
+Html,css,js,Php,mysql
+
